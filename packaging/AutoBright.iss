@@ -12,9 +12,9 @@
 AppId=AutoBright.Desktop
 AppName=AutoBright
 AppVersion={#AppVersion}
-AppPublisher=Dan Delivers
-AppPublisherURL=https://dandelivers.dev
-AppSupportURL=https://dandelivers.dev
+AppPublisher=Danilo Stoletovic
+AppPublisherURL=https://danilostoletovic.com
+AppSupportURL=https://danilostoletovic.com
 DefaultDirName={localappdata}\Programs\AutoBright
 DisableDirPage=yes
 DisableProgramGroupPage=yes

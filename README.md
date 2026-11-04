@@ -2,7 +2,7 @@
 
 <img src="Assets/AutoBright.png" width="96" height="96" alt="AutoBright sun and camera aperture icon">
 
-By [Dan Delivers](https://dandelivers.dev).
+By [Danilo Stoletovic](https://danilostoletovic.com).
 
 A small Windows 11 laptop brightness app. **One purpose. One button. Zero bloat.**
 
@@ -115,4 +115,4 @@ Dimmer targets favor a lower screen brightness, but battery savings have not bee
 
 [Privacy policy](PRIVACY.md) | [MIT license](LICENSE.txt)
 
-Copyright (c) 2026 Dan Delivers. Released under the MIT license.
+Copyright (c) 2026 Danilo Stoletovic. Released under the MIT license.

@@ -9,12 +9,12 @@
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <Version>1.0.0</Version>
     <ApplicationIcon>Assets\AutoBright.ico</ApplicationIcon>
-    <Company>Dan Delivers</Company>
-    <Copyright>Copyright (c) 2026 Dan Delivers</Copyright>
-    <PackageProjectUrl>https://dandelivers.dev</PackageProjectUrl>
+    <Company>Danilo Stoletovic</Company>
+    <Copyright>Copyright (c) 2026 Danilo Stoletovic</Copyright>
+    <PackageProjectUrl>https://danilostoletovic.com</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/danilostoletovic/AutoBright</RepositoryUrl>
-    <Authors>Dan Delivers</Authors>
+    <Authors>Danilo Stoletovic</Authors>
     <Description>Local camera-based adaptive laptop brightness</Description>
     <DefaultItemExcludes>$(DefaultItemExcludes);artifacts\**</DefaultItemExcludes>
   </PropertyGroup>
