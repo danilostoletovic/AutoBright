@@ -1,0 +1,11 @@
+bin/
+obj/
+artifacts/
+.vs/
+*.user
+.build-home/
+.env
+.env.*
+*.pfx
+*.p12
+*.snk
